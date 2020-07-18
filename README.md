@@ -8,7 +8,7 @@ Let's get started with the first C program
 int main() 
 {
 	
-       /*there is no need to display what is written, it is a comment*/
+       /* the statement written under printf will be displayed not this line coz it is a comment*/
     printf("Hello, World!\n");
     printf("Welcome to C programming.");   
    return 0;
