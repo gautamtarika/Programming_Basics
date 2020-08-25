@@ -1,16 +1,11 @@
-# cproggrammingbasics
-Let's get started with the first C program
+HEY THERE!
 
-#include <stdio.h>
-#include <string.h>
-#include <math.h>
-#include <stdlib.h>
+Ready to embark on a journey of a programmer?
+Wait, you need to know the basics of programming.
+Let me give you a head start for it.
+In this repository, I will be posting basic programming questions which will help you to get started as a newbie.
 
-int main() 
-{
-	
-       /* the statement written under printf will be displayed not this line coz it is a comment*/
-    printf("Hello, World!\n");
-    printf("Welcome to C programming.");   
-   return 0;
-}
+
+HOPE YOU REACH GREATER HEIGHTS!
+
+Let's Get Started.
