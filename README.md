@@ -6,7 +6,7 @@ Ready to embark on a journey of a Programmer? Wait, you need to know the basics 
 
 For Getting Started with any of these Programming Language You Must Get Install the Compiler for the Particular Programming Language.
 
-For **Python** - Python 3.8.5 (Currently Latest) You can Get that from [Here](https://python.org)
+For **Python** - Python 3.8.5 (Currently Latest) You can Get that from [Here](https://python.org)<br>
 For **C and C++** - Mingw 0.6.3 (Currently Latest and in Beta Process) You can Get it From [Here](https://osdn.net/projects/mingw/downloads/68260/mingw-get-setup.exe/)
 
 ### Prerequisites
