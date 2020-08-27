@@ -1,0 +1,7 @@
+name=input("ENTER YOUR FULL NAME :- ")
+print(name[0:10])
+print(name[:-1])
+print(name[0:])
+print(name[-1:])
+print(name+name)
+print(2*name)
